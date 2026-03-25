@@ -1,4 +1,4 @@
-# analysis.pyimport pandas as pd
+# import pandas as pd
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("real_estate_data.csv")
